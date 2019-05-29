@@ -1,0 +1,30 @@
+C:\Users\42720780898\Desktop\Segunda Tentativa\bin\Debug\netcoreapp2.1\Segunda Tentativa.deps.json
+C:\Users\42720780898\Desktop\Segunda Tentativa\bin\Debug\netcoreapp2.1\Segunda Tentativa.runtimeconfig.json
+C:\Users\42720780898\Desktop\Segunda Tentativa\bin\Debug\netcoreapp2.1\Segunda Tentativa.runtimeconfig.dev.json
+C:\Users\42720780898\Desktop\Segunda Tentativa\bin\Debug\netcoreapp2.1\Segunda Tentativa.dll
+C:\Users\42720780898\Desktop\Segunda Tentativa\bin\Debug\netcoreapp2.1\Segunda Tentativa.pdb
+C:\Users\42720780898\Desktop\Segunda Tentativa\bin\Debug\netcoreapp2.1\Segunda Tentativa.Views.dll
+C:\Users\42720780898\Desktop\Segunda Tentativa\bin\Debug\netcoreapp2.1\Segunda Tentativa.Views.pdb
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.csprojAssemblyReference.cache
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.csproj.CoreCompileInputs.cache
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.RazorAssemblyInfo.cache
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.RazorAssemblyInfo.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.AssemblyInfoInputs.cache
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.AssemblyInfo.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.TagHelpers.input.cache
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.TagHelpers.output.cache
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.RazorCoreGenerate.cache
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.RazorTargetAssemblyInfo.cache
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.RazorTargetAssemblyInfo.cs
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.Views.pdb
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.dll
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.pdb
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Segunda Tentativa.csproj.CopyComplete
+C:\Users\42720780898\Desktop\Segunda Tentativa\obj\Debug\netcoreapp2.1\Razor\Views\Home\Listar_Registros.g.cshtml.cs

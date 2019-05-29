@@ -1,0 +1,52 @@
+﻿@model Terceira.ViewModels.Extracao
+
+<h2>Lista de Registros</h2>
+<br>
+<h4>Defina um dos critérios de busca abaixo</h3>
+<br>
+
+<form method="POST" action="Listar/NomeMotorista">
+<label for="nome">Nome do motorista</label>
+<br />
+<input id="nome" type="text" maxlength="20" minlength="3" name="nome" />
+<input type="submit" value="Pesquisar" />
+<br>
+<br>
+</form>
+
+<form method="POST" action="Listar/PlacaCarro">
+<label for="nome">Placa do Carro</label>
+<br />
+<input id="nome" type="text" maxlength="20" minlength="3" name="placa" />
+<input type="submit" value="Pesquisar">
+<br>
+<br>
+</form>
+
+<form method="POST" action="Listar/Marca">
+<label for="marca">Marca do carro</label>
+<br>
+<select id="marca" name="marca">
+    <option value="" disabled selected>Selecione</option>
+    @foreach(var marca in Model.Marca) {
+        <option value=@marca.NomeMarca>@marca.NomeMarca</option>
+    }
+</select>
+<input type="submit" value="Pesquisar" />
+<br>
+<br>
+</form>
+
+<form method="POST" action="Listar/Modelo">
+<label for="modelo">Modelo do Carro</label>
+<br>
+<select id="shake" name="modelo">
+    <option value="" disabled selected>Selecione</option>
+    @foreach(var modelo in Model.Modelo) {
+        <option value=@modelo.Nome>@modelo.Nome</option>
+    }
+</select>
+<input type="submit" value="Pesquisar" />
+<br>
+<br>
+</form>

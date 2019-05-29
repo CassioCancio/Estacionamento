@@ -1,0 +1,45 @@
+﻿@model Terceira.ViewModels.Extracao
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Registrar uma entrada</h2>
+
+<br>
+<form method="POST" action="Home/RegistrarEntrada">
+<label for="nome">Nome do motorista</label>
+<br />
+<input id="nome" type="text" maxlength="20" minlength="3" name="nome" />
+<br>
+<br>
+
+<label for="nome">Placa do Carro</label>
+<br />
+<input id="nome" type="text" maxlength="20" minlength="3" name="placa" />
+<br>
+<br>
+
+<label for="marca">Marca do carro</label>
+<br>
+<select id="marca" name="marca">
+    <option value="" disabled selected>Selecione</option>
+    @foreach(var marca in Model.Marca) {
+        <option value=@marca.NomeMarca>@marca.NomeMarca</option>
+    }
+</select>
+<br>
+<br>
+
+<label for="modelo">Modelo do Carro</label>
+<br>
+<select id="shake" name="modelo">
+    <option value="" disabled selected>Selecione</option>
+    @foreach(var modelo in Model.Modelo) {
+        <option value=@modelo.Nome>@modelo.Nome</option>
+    }
+</select>
+<br>
+<br>
+<input type="submit" value="Finalizar Registro" />
+</form>

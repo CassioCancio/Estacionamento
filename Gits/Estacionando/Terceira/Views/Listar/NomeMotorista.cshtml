@@ -1,0 +1,18 @@
+@model Terceira.ViewModels.Extracao
+
+ <h2>Resultados encontrados serão listados abaixo</h2>
+
+ <h4>Caso não haja resultados abaixo, o critério pesquisado não era compatível com os registros</h4>
+
+@foreach(var recuperado in Model.Registros) {
+
+        <br>
+        <br>
+        <p>---------------------------------------------------------------------------</p>
+        <p>Motorista: @recuperado.NomeUsuario</p>
+        <p>Data de Entrada: @recuperado.DataRegistro</p>
+        <p>Placa: @recuperado.Placa</p>
+        <p>Modelo: @recuperado.NomeModelo</p>
+        <p>Marca: @recuperado.Marca</p>
+        <p>---------------------------------------------------------------------------</p>
+    }
